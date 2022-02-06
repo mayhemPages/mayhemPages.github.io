@@ -4,14 +4,10 @@ date: 2022-02-06T00:00:01
 categories:
   - blog
 tags:
-  - welcome
-  - update
+
 ---
 
 
-
-
-# Welcome
 
 This site will server as a repository of links, info, gotcha's, and (hopefully) useful information around the crypto world. Of course, none of this is financial advice, it's more my own personal journey, what I've learned along the way, issues I've hit, and bits and pieces collected along the way. 
 
