@@ -59,7 +59,7 @@ author:
   name   : "Mayhem Ozzy"
   avatar : "/assets/images/bio-photo-small.jpg"
   bio    : "My crypto journey, tips'n'tricks, lessons learned, and interesting bits collected along the way."
-  uri: "https://mayhempages.com"
+  url: "https://mayhempages.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
