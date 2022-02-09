@@ -1,5 +1,5 @@
 ---
-title: "crypto.com Visa CArd Cashback"
+title: "crypto.com Visa Card Cashback"
 permalink: /cdccashback/
 categories:
   - Blog
