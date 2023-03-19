@@ -1,6 +1,5 @@
 # Mayhem pages
 
 
-my crypto journey - 
+mhm
 
-created using [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
